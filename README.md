@@ -32,6 +32,6 @@
 #### ▪ Phone Number
 010-3439-3762
 #### ▪ E-mail
-ypd04208@naver.com
+<img src="https://img.shields.io/badge/ypd04208@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 #### ▪ Blog
-https://velog.io/@min0731/series
+<img src="https://img.shields.io/badge/https://velog.io/@min0731/series-20C997?style=for-the-badge&logo=velog&logoColor=white">[Link](https://velog.io/@min0731/series)
