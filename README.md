@@ -33,11 +33,8 @@
 
 ## 📞 Contact
 
-#### &emsp;▪ Phone Number
-#### &emsp; &emsp; 👉 +82) 010-3439-3762
-#### &emsp; ▪ E-mail
-#### &emsp;&emsp; 👉 ypd04208@naver.com
-#### &emsp; ▪ Blog
-#### &emsp;&emsp;👉 [Link](https://velog.io/@min0731/series)
+#### &emsp;▪ Phone Number 👉 +82) 010-3439-3762
+#### &emsp; ▪ E-mail 👉 ypd04208@naver.com
+#### &emsp; ▪ Blog 👉 [Link](https://velog.io/@min0731/series)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
