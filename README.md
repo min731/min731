@@ -4,7 +4,7 @@
 
 #### Hi, I'm jung min Lim!<br>
 #### I'm looking for a job as an ai developer!
-#### I am interested in building AI learning data.
+#### I am interested in building AI learning data!
 
 ## 🛠 Tech Stack
 
