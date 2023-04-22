@@ -6,6 +6,9 @@
 #### I'm looking for a job as an ai developer!
 #### I am interested in building AI learning data!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=min731)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🛠 Tech Stack
 
 #### ▪ Languages
