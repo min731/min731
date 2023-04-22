@@ -5,8 +5,6 @@
 #### Hi, I'm jung min Lim!<br>
 #### I'm looking for a job as an ai developer.!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=min731)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠 Tech Stack
 
 #### ▪ Languages
@@ -34,6 +32,6 @@
 #### ▪ Phone Number
 010-3439-3762
 #### ▪ E-mail
-<img src="https://img.shields.io/badge/ypd04208@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+<img src="https://img.shields.io/badge/-03C75A?style=for-the-badge&logo=naver&logoColor=white"> ypd04208@naver.com
 #### ▪ Blog
-<img src="https://img.shields.io/badge/https://velog.io/@min0731/series-20C997?style=for-the-badge&logo=velog&logoColor=white"> 👉 [Link](https://velog.io/@min0731/series)
+<img src="https://img.shields.io/badge/-20C997?style=for-the-badge&logo=velog&logoColor=white"> 👉 [Link](https://velog.io/@min0731/series)
