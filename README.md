@@ -2,8 +2,8 @@
 
 ## 👋 Introduction 
 
-#### Hi, I'm jung min Lim.<br>
-#### I'm looking for an AI developer.
+#### Hi, I'm jung min Lim!<br>
+#### I'm looking for a job as an ai developer.!
 
 ## 🛠 Tech Stack
 
@@ -16,6 +16,18 @@
 
 #### ▪ Cloud
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+
+## 📃 Project
+
+#### ▪ Smart Library Integrated Chatbot (Natural language processing)➡
+#### ▪ Vehicle Abnormalities Detection System (AI Hackathon) ➡
+#### ▪ Facial Recognition Attendance Automation Project (Deep Learning) ➡
+#### ▪ Gender Classification Project (Machine Learning)
+#### ▪ Gender Classification Project (Machine Learning)
+#### ▪ Gender Classification Project (Machine Learning)
+
+Smart Library Integrated Chatbot ➡
+
 
 ## 📞 Contact
 
