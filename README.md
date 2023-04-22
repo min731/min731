@@ -19,15 +19,13 @@
 
 ## 📃 Project
 
-#### ▪ Smart Library Integrated Chatbot (Natural language processing)➡
-#### ▪ Vehicle Abnormalities Detection System (AI Hackathon) ➡
-#### ▪ Facial Recognition Attendance Automation Project (Deep Learning) ➡
-#### ▪ Gender Classification Project (Machine Learning)
-#### ▪ Gender Classification Project (Machine Learning)
-#### ▪ Gender Classification Project (Machine Learning)
-
-Smart Library Integrated Chatbot ➡
-
+#### ▪ Smart Library Integrated Chatbot (NLP) 👉 [Link](https://github.com/min731/Sesac_final_pjt_v3)
+#### ▪ Vehicle Abnormalities Detection System (AI Hackathon) 👉 [Link](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)
+#### ▪ Facial Recognition Attendance Automation Project (DL) 👉 [Link]([https://github.com/min731/Sesac_final_pjt_v3](https://velog.io/@min0731/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%95%88%EB%A9%B4-%EC%9D%B8%EC%8B%9D-%EC%B6%9C%EC%84%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1))
+#### ▪ Gender Classification Project (ML) 👉 [Link]([https://github.com/min731/Sesac_final_pjt_v3](https://velog.io/@min0731/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%84%B1%EB%B3%84%EB%B6%84%EB%A5%98%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1))
+#### ▪ Love Counseling Chatbot Project (NLP) 👉 [Link]([https://github.com/min731/Sesac_final_pjt_v3](https://velog.io/@min0731/%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC%EC%97%B0%EC%95%A0-%EC%83%81%EB%8B%B4-%EC%B1%97%EB%B4%87%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1))
+#### ▪ World Cup match prediction project (Data Visualization) 👉 [Link]([https://github.com/min731/Sesac_final_pjt_v3](https://velog.io/@min0731/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4Worldcup%EC%8A%B9%EB%B6%80%EC%98%88%EC%B8%A1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1))
+#### ▪ Web project (Spring Boot) 👉 [Link](https://github.com/min731/Sesac_final_pjt_v3)
 
 ## 📞 Contact
 
