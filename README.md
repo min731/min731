@@ -3,7 +3,7 @@
 ## 👋 Introduction 
 
 #### &emsp; Hi, I'm jung min Lim!<br>
-#### &emsp; I'm looking for a job as an ai developer!
+#### &emsp; I'm looking for a job as an AI Developer!
 #### &emsp; I am interested in building AI learning data!
 
 #### &emsp; [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=min731)](https://github.com/anuraghazra/github-readme-stats)
