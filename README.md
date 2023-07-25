@@ -32,6 +32,12 @@
 #### &emsp; - 데이터사이언스 Worldcup 승부예측 프로젝트 (Data Visualization) 👉 [Blog](https://velog.io/@min0731/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4Worldcup%EC%8A%B9%EB%B6%80%EC%98%88%EC%B8%A1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
 #### &emsp; - 새싹 커뮤니티 웹 프로젝트 (Spring Boot) 👉 [Blog](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
 
+## ✏ Study
+
+#### &emsp; - 알고리즘 개념 공부  👉 [Repo](https://github.com/min731?tab=repositories) 
+#### &emsp; - 알고리즘 문제풀이/스터디  👉 [Blog](https://velog.io/@min0731/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C), [Repo](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
+#### &emsp; - SQL 공부 👉 [Blog](https://velog.io/@min0731/series/SQL-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4) ,[Repo](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
+
 ## 📞 Contact
 
 #### &emsp;▪ Phone Number 👉 +82) 010-3439-3762
