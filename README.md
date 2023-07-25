@@ -21,7 +21,8 @@
 #### &emsp; <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> 
 
 ## 📃 Project
- 
+
+#### &emsp; - 실시간 얼굴 인식을 통한 맞춤형 광고 제공 프로젝트 (Face-Recognition,CNN) 👉 [Repo](https://github.com/haeniKim/ai-project-team4) , [Blog](https://velog.io/@min0731/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%96%BC%EA%B5%B4-%EC%9D%B8%EC%8B%9D%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EA%B4%91%EA%B3%A0-%EC%A0%9C%EA%B3%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81)
 #### &emsp; - 기상 상황에 따른 도로 노면 분류 프로젝트 (CNN) 👉 [Repo](https://github.com/min731/META_CNN_PJT) , [Blog](https://velog.io/@min0731/%EA%B8%B0%EC%83%81-%EC%83%81%ED%99%A9%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%8F%84%EB%A1%9C-%EB%85%B8%EB%A9%B4-%EB%B6%84%EB%A5%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81)
 #### &emsp; - 수입 중고차 가격 예측 프로젝트 (ML) 👉 [Repo](https://github.com/min731/META_ML_PJT) , [Blog](https://velog.io/@min0731/%EC%88%98%EC%9E%85-%EC%A4%91%EA%B3%A0%EC%B0%A8-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81)
 #### &emsp; - 챗봇 기반 스마트 도서관 통합 서비스 프로젝트 (NLP) 👉 [Repo](https://github.com/min731/Sesac_final_pjt_v3), [Blog](https://velog.io/@min0731/%EC%B1%97%EB%B4%87-%EA%B8%B0%EB%B0%98-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%8F%84%EC%84%9C%EA%B4%80-%ED%86%B5%ED%95%A9-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81)
