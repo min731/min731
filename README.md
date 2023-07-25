@@ -35,8 +35,8 @@
 ## ✏ Study
 
 #### &emsp; - 알고리즘 개념 공부  👉 [Repo](https://github.com/min731/Algorithm_Concepts) 
-#### &emsp; - 알고리즘 문제풀이/스터디  👉 [Blog](https://velog.io/@min0731/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C), [Repo](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
-#### &emsp; - SQL 공부 👉 [Blog](https://velog.io/@min0731/series/SQL-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4) ,[Repo](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
+#### &emsp; - 알고리즘 문제풀이/스터디  👉 [Blog](https://velog.io/@min0731/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C), [Repo](https://github.com/min731/Algorithm_Problem_Solving) 
+#### &emsp; - SQL 공부 👉 [Blog](https://velog.io/@min0731/series/SQL-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4) ,[Repo](https://github.com/min731/SQL_Problem_Solving) 
 
 ## 📞 Contact
 
