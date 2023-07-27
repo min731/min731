@@ -33,6 +33,12 @@
 #### &emsp; - 데이터사이언스 Worldcup 승부예측 프로젝트 (Data Visualization) 👉 [Blog](https://velog.io/@min0731/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4Worldcup%EC%8A%B9%EB%B6%80%EC%98%88%EC%B8%A1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
 #### &emsp; - 새싹 커뮤니티 웹 프로젝트 (Spring Boot) 👉 [Blog](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1) 
 
+|제목|내용|설명|
+|:---|---:|:---:|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+
 ## ✏ Study
 
 #### &emsp; - 알고리즘 개념 공부  👉 [Repo](https://github.com/min731/Algorithm_Concepts) 
