@@ -6,7 +6,7 @@
 <!-- #### &emsp; I'm looking for a job as an Developer! -->
 #### &emsp; I'm looking for a job as an AI Engineer!
 #### &emsp; I am interested in the field of AI vision!
-#### &emsp; 🔹Personal Blog 👉 [Link](https://velog.io/@min0731/series) 
+#### &emsp; 🔹 Personal Blog 👉 [Link](https://velog.io/@min0731/series) 
 <!-- 
 #### &emsp; [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=min731)](https://github.com/anuraghazra/github-readme-stats) -->
 
