@@ -5,7 +5,7 @@
 #### &emsp; Hi, I'm jung min Lim!
 #### &emsp; I'm looking for a job as an AI Engineer!
 
-#### &emsp; 🔹 Personal Blog 👉 [Link](https://velog.io/@min0731/series)  
+#### &emsp; 🔹 Personal Blog 👉 [Link](https://velog.io/@min0731/series)   
 
 ## 🛠 Tech Stack
 #### &emsp; - Languages
