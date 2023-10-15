@@ -18,7 +18,7 @@
 
 ## 📃 Project
 
-|Project Name|Tech Stack|Team| Period |Link|
+|Project Name|Tech Stack|Team|   Period   |Link|
 |:---:|:---:|:---:|:---:|:---:|
 |데스크 워커를 위한 자세 교정 서비스 '척추의 요정'|Pose Estimation (MediaPipe), Chatbot (GPT 3.5 Turbo/LangChain), Character Animation (Animated Drawings), Social Data Analysis (LDA), Model Serving(Flask)|![Team](https://img.shields.io/badge/Team-red)| 23. 09. 04 ~ 23. 09. 27	|👉 [Repo](https://github.com/min731/ai-model-server), [Blog](https://velog.io/@min0731/%EB%8D%B0%EC%8A%A4%ED%81%AC-%EC%9B%8C%EC%BB%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9E%90%EC%84%B8-%EA%B5%90%EC%A0%95-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B2%99%EC%B6%94%EC%9D%98-%EC%9A%94%EC%A0%95-1)|
 |국악기 교육 플랫폼 '소리로 듣는 한국'|Chatbot(GPT 3.5 Turbo/Langchain), Model Serving(Flask/FastAPI)|![Team](https://img.shields.io/badge/Team-red)| 23. 08. 30 ~ 23. 09. 01	|👉 [Repo](https://github.com/min731/META_MIDNIGHTS_PJT), [Blog](https://velog.io/@min0731/%EA%B5%AD%EC%95%85%EA%B8%B0-%EA%B5%90%EC%9C%A1-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%86%8C%EB%A6%AC%EB%A1%9C-%EB%93%A3%EB%8A%94-%ED%95%9C%EA%B5%AD1)|
