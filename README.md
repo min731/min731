@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20Jung%20min's%20Github%20&fontSize=50&fontColor=FFFFFF)
+
+<div align="center">
+
 ## 👋 Introduction  
  
 #### Hi, I'm jung min Lim!
 #### I'm looking for a job as an AI Engineer!
 
 #### 🔹 Personal Blog 👉 [Link](https://velog.io/@min0731/series)   
+<br>
 
 ## 🛠 Tech Stack
 #### &emsp; - Languages
@@ -15,6 +19,7 @@
 #### &emsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 #### &emsp; - Cloud
 #### &emsp; <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> 
+<br>
 
 ## 📃 Project
 
@@ -33,6 +38,7 @@
 |머신러닝 성별 분류 프로젝트|ML(XGB/LGBM/RandomForest), Hyperparameter Tunning(GridSearchCV), R|![Team](https://img.shields.io/badge/Team-red)|22. 11. 28 ~ 22. 12. 07	|👉 [Blog](https://velog.io/@min0731/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%84%B1%EB%B3%84%EB%B6%84%EB%A5%98%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)|
 |데이터 사이언스 Worldcup 승부예측 프로젝트| Data Analysis(Pandas), Data Visualization(Seaborn/Matplolib/Folium)|![Team](https://img.shields.io/badge/Team-red)|22. 11. 16 ~ 22. 11. 22	|👉 [Blog](https://velog.io/@min0731/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4Worldcup%EC%8A%B9%EB%B6%80%EC%98%88%EC%B8%A1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)|
 |새싹 커뮤니티 웹 프로젝트|Web Application(Spring Boot), Database(MariaDB) |![Solo](https://img.shields.io/badge/Solo-blue)|22. 10. 17 ~ 22. 10. 28|👉 [Blog](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)|
+<br>
 
 ## ✏ Study
 
