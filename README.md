@@ -10,7 +10,7 @@
 #### 🔹 Personal Blog 👉 [Link](https://velog.io/@min0731/series)   
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 #### &emsp; - Languages
 #### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
 #### &emsp; - Framework
