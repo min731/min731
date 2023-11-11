@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-## 👋 Introduction 
+## 👋 Introduction
 
 #### Hi, I'm jung min Lim!
 #### I'm looking for a job as an AI Engineer!
