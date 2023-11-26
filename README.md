@@ -39,7 +39,7 @@
 |데이터 사이언스 Worldcup 승부예측 프로젝트| Data Analysis(Pandas), Data Visualization(Seaborn/Matplolib/Folium)|![Team](https://img.shields.io/badge/Team-red)|22. 11. 16 ~ 22. 11. 22	|👉 [Blog](https://velog.io/@min0731/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4Worldcup%EC%8A%B9%EB%B6%80%EC%98%88%EC%B8%A1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)|
 |새싹 커뮤니티 웹 프로젝트|Web Application(Spring Boot), Database(MariaDB) |![Solo](https://img.shields.io/badge/Solo-blue)|22. 10. 17 ~ 22. 10. 28|👉 [Blog](https://velog.io/@min0731/%EC%83%88%EC%8B%B9%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)|
 <br>
-
+ 
 ## ✏ Study
 
 #### &emsp; 🔹 알고리즘 문제풀이/스터디  👉 [Blog](https://velog.io/@min0731/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C), [Repo](https://github.com/min731/Algorithm_Problem_Solving) 
