@@ -15,8 +15,7 @@
 |2023.11.30|서울시 성동구 공공서비스 문제 해결 SW 개발 공모전|전체 118팀 , 본선 18팀|우수상|차량주행데이터를 활용한 불법현수막 탐지 시스템|[레포](https://github.com/min731/META_Yolo_OCR_ChatGPT_PJT/tree/main), [PPT](https://velog.io/@min0731/%EB%B6%88%EB%B2%95-%ED%98%84%EC%88%98%EB%A7%89-%ED%83%90%EC%A7%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[영상](https://www.youtube.com/watch?v=UXZTP0jx1WQ)|정보통신산업진흥원|
 |2023.11.22|서울시 인공지능 아이디어 챌린지|전국 단위 모집, 본선 3팀|장려상|차량주행데이터를 활용한 불법현수막 탐지 시스템|[레포](https://github.com/min731/META_Yolo_OCR_ChatGPT_PJT/tree/main), [PPT](https://velog.io/@min0731/%EB%B6%88%EB%B2%95-%ED%98%84%EC%88%98%EB%A7%89-%ED%83%90%EC%A7%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[영상](https://www.youtube.com/watch?v=UXZTP0jx1WQ)|서울특별시 디지털정책관|
 |2023.11.02|고양시 스마트시티 아이디어톤|전국 단위 모집, 본선 6팀|최우수상|차량주행데이터를 활용한 불법현수막 탐지 시스템|[레포](https://github.com/min731/META_Yolo_OCR_ChatGPT_PJT/tree/main), [PPT](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2-2),[영상](https://www.youtube.com/watch?v=UXZTP0jx1WQ)|고양산업진흥원|
-|2023.04.07|새싹 인공지능 SW 개발자 양성과정|총 32명 교육생, 3명 선발|최우수학습자|-|-|SeSAC
-(Seoul Software ACademy)|
+|2023.04.07|새싹 인공지능 SW 개발자 양성과정|총 32명 교육생, 3명 선발|최우수학습자|-|-|SeSAC(Seoul Software ACademy)|
 |2022.12.22|이미지 사운드 매칭 AI 해커톤|전국 단위 모집, 본선 10팀|우수상|차량 이미지/음성 데이터를 활용한 차량 이상 감지 시스템|[개요](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1), [PPT](https://velog.io/@min0731/%EB%B6%88%EB%B2%95-%ED%98%84%EC%88%98%EB%A7%89-%ED%83%90%EC%A7%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[소스](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2-1)|한국지능정보사회진흥원|
 
 ## 🛠 Tech Stack
