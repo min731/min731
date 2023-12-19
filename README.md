@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=AI%20개발자%20임정민%20입니다!%20&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=AI%20개발자%20취업준비생%20임정민%20입니다!%20&fontSize=50&fontColor=FFFFFF)
  
 <div align="center">  
  
