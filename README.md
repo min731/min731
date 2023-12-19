@@ -1,20 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20Jung%20min's%20Github%20&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=AI%20개발자%20임정민%20입니다!%20&fontSize=50&fontColor=FFFFFF)
  
 <div align="center">  
  
 ## 👋 Introduction
 
-#### Hi, I'm jung min Lim!
-#### I'm looking for a job as an AI Developer!  
-
-#### 🔹 Personal Blog 👉 [Link](https://velog.io/@min0731/series)    
+#### 안녕하십니까. AI 개발자 임정민입니다!
+#### 꾸준한 자기계발을 통해 성장하기 위해 매일같이 공부하며 기록하고 있습니다!
+#### 🔹 개인 블로그 👉 [Link](https://velog.io/@min0731/series)    
 
 ## 🛠 Tech Stack
 
 #### &emsp; - Languages
 #### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
-#### &emsp; - Framework
-#### &emsp; <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/langchain-EC1C24?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/yolov8-00FFFF?style=for-the-badge&logo=yolo&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/fastAPI-009688?style=for-the-badge&logo=fastAPI&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+#### &emsp; - Server
+#### <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/fastAPI-009688?style=for-the-badge&logo=fastAPI&logoColor=white">
 #### &emsp; - Database
 #### &emsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 #### &emsp; - Cloud
