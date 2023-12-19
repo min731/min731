@@ -6,7 +6,18 @@
 
 #### 안녕하십니까. AI 개발자 임정민입니다!
 #### 꾸준한 자기계발을 통해 성장하기 위해 매일같이 공부하며 기록하고 있습니다!
-#### 🔹 개인 블로그 👉 [Link](https://velog.io/@min0731/series)    
+#### 🔹 개인 블로그 👉 [Link](https://velog.io/@min0731/series)
+#### 다양한 프로젝트 경험과 수상 실적을 토대로 실력을 쌓아 나가고 있습니다!
+
+|날짜|대회|모집|수상|프로젝트|링크|주관|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023.12.12|메타버스 아카데미 2기 최종 융합 프로젝트|전체 58팀 , 대상 3팀|대상(과학기술부장관상)|메타버스 라이프로깅 SNS '우리가족섬'|[레포](https://github.com/min731/META_FINAL_PJT), [PPT](https://velog.io/@min0731/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4-%EB%9D%BC%EC%9D%B4%ED%94%84%EB%A1%9C%EA%B9%85-SNS-%EC%9A%B0%EB%A6%AC%EA%B0%80%EC%A1%B1%EC%84%AC-2),[영상](https://www.youtube.com/watch?v=vKTtqw60PuQ)|정보통신산업진흥원|
+|2023.11.30|서울시 성동구 공공서비스 문제 해결 SW 개발 공모전|전체 118팀 , 본선 18팀|우수상|차량주행데이터를 활용한 불법현수막 탐지 시스템|[레포](https://github.com/min731/META_Yolo_OCR_ChatGPT_PJT/tree/main), [PPT](https://velog.io/@min0731/%EB%B6%88%EB%B2%95-%ED%98%84%EC%88%98%EB%A7%89-%ED%83%90%EC%A7%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[영상](https://www.youtube.com/watch?v=UXZTP0jx1WQ)|정보통신산업진흥원|
+|2023.11.22|서울시 인공지능 아이디어 챌린지|전국 단위 모집, 본선 3팀|장려상|차량주행데이터를 활용한 불법현수막 탐지 시스템|[레포](https://github.com/min731/META_Yolo_OCR_ChatGPT_PJT/tree/main), [PPT](https://velog.io/@min0731/%EB%B6%88%EB%B2%95-%ED%98%84%EC%88%98%EB%A7%89-%ED%83%90%EC%A7%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[영상](https://www.youtube.com/watch?v=UXZTP0jx1WQ)|서울특별시 디지털정책관|
+|2023.11.02|고양시 스마트시티 아이디어톤|전국 단위 모집, 본선 6팀|최우수상|차량주행데이터를 활용한 불법현수막 탐지 시스템|[레포](https://github.com/min731/META_Yolo_OCR_ChatGPT_PJT/tree/main), [PPT](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2-2),[영상](https://www.youtube.com/watch?v=UXZTP0jx1WQ)|고양산업진흥원|
+|2023.04.07|새싹 인공지능 SW 개발자 양성과정|총 32명 교육생, 3명 선발|최우수학습자|-|-|SeSAC
+(Seoul Software ACademy)|
+|2022.12.22|이미지 사운드 매칭 AI 해커톤|전국 단위 모집, 본선 10팀|우수상|차량 이미지/음성 데이터를 활용한 차량 이상 감지 시스템|[개요](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1), [PPT](https://velog.io/@min0731/%EB%B6%88%EB%B2%95-%ED%98%84%EC%88%98%EB%A7%89-%ED%83%90%EC%A7%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[소스](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2-1)|한국지능정보사회진흥원|
 
 ## 🛠 Tech Stack
 
