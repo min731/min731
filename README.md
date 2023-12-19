@@ -19,6 +19,7 @@
 #### &emsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 #### &emsp; - Cloud
 #### &emsp; <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
+
 <br>
 
 ## 🏆 Awards
@@ -32,7 +33,9 @@
 |2023.04.07|새싹 인공지능 SW 개발자 양성과정|32명 교육생, 3명 선발|최우수학습자|챗봇 기반 스마트 도서관 통합 서비스 프로젝트|[레포](https://github.com/min731/Sesac_final_pjt_v3),[PPT](https://velog.io/@min0731/%EC%B1%97%EB%B4%87-%EA%B8%B0%EB%B0%98-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%8F%84%EC%84%9C%EA%B4%80-%ED%86%B5%ED%95%A9-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[영상](https://youtu.be/hZ_O2oySuOs)|SeSAC(Seoul Software ACademy)|
 |2022.12.22|이미지 사운드 매칭 AI 해커톤|전국 단위 모집, 본선 10팀|우수상|차량 이미지/음성 데이터 활용 차량 이상 감지 시스템|[개요](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1), [PPT](https://velog.io/@min0731/%EB%B6%88%EB%B2%95-%ED%98%84%EC%88%98%EB%A7%89-%ED%83%90%EC%A7%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[소스](https://velog.io/@min0731/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%82%AC%EC%9A%B4%EB%93%9C-%EB%A7%A4%EC%B9%AD%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2-1)|한국지능정보사회진흥원|
 |2022.05.18|광운대학교 협동로봇 SI 양성과정|교육과정 내 5팀|최우수상|협동로봇 활용 돈까스 튀김 자동화 시스템|[개요](https://velog.io/@min0731/%EA%B4%91%EC%9A%B4%EB%8C%80%ED%95%99%EA%B5%90-%ED%98%91%EB%8F%99%EB%A1%9C%EB%B4%87-SI-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81),[PPT](https://velog.io/@min0731/%EA%B4%91%EC%9A%B4%EB%8C%80%ED%95%99%EA%B5%90-%ED%98%91%EB%8F%99%EB%A1%9C%EB%B4%87-SI-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82),[영상](https://www.youtube.com/watch?v=Hm1PlI3QBnI)|광운대학교혁신인재양성사업단|
+
 <br>
+
 ## 📃 Project
 
 |Project Name|Tech Stack|Team|   Period   |Link|
@@ -59,6 +62,7 @@
 #### &emsp; 🔹 알고리즘 개념 공부  👉 [Repo](https://github.com/min731/Algorithm_Concepts) 
 <!-- #### &emsp; 🔹 Flask 서빙 공부  👉 [Repo](https://github.com/min731/Flask_Study)  -->
 #### &emsp; 🔹 SQL 공부 👉 [Blog](https://velog.io/@min0731/series/SQL-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4) ,[Repo](https://github.com/min731/SQL_Problem_Solving) 
+<br>
 
 ## 📞 Contact
 #### &emsp; 🔹 E-mail 👉 ypd04208@naver.com 
