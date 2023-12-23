@@ -10,7 +10,7 @@
 #### 다양한 프로젝트 경험과 수상 실적을 바탕으로 실력을 쌓고 있습니다!
 #### 열정적인 팀원들과 함께 서로를 이끌어주며 일하고 싶습니다!
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 #### &emsp; - Languages
 #### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
