@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=AI%20개발자%20'임정민'%20입니다!%20&fontSize=50&fontColor=FFFFFF)
  
 <div align="center">  
- 
+  
 ## 👋 Introduction
 
 #### 안녕하십니까. AI 기술을 활용하여 더 나은 세상을 만들고 싶은 개발자 ‘임정민’입니다.
