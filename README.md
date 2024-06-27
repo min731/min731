@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack 
 
 #### &emsp; - Languages
-#### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
+#### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
 #### &emsp; - AI
 #### &emsp; <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
 #### &emsp; - Server
