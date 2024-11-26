@@ -69,7 +69,7 @@
 ## 📞 Contact
 #### &emsp; 🔹 E-mail 👉 ypd04208@gmail.com 
 #### &emsp; 🔹 Blog 👉 [Link](https://velog.io/@min0731/series) 
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/min0731?theme=light&posts=3)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
