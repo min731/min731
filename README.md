@@ -72,4 +72,4 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/min731?theme=light&posts=3)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/min0731?theme=light&posts=3)
