@@ -83,7 +83,7 @@ Air Gapped 환경의 Model Serving, Training ML 인프라 구축 업무를 수�
 ## 📞 Contact
 #### &emsp; 🔹 E-mail 👉 ypd04208@gmail.com 
 #### &emsp; 🔹 Blog 👉 [Github.io](https://min731.github.io/) 
-#### &emsp; 🔹 Blog 👉 [Link](https://velog.io/@min0731/series) 
+#### &emsp; 🔹 Blog 👉 [Velog](https://velog.io/@min0731/series) 
 
 <!--![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/min0731?theme=light&posts=3)-->
 
