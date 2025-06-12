@@ -5,7 +5,7 @@
 ## 👋 Introduction
 
 #### 안녕하십니까. 1년차 MLOps Engineer ‘임정민’입니다.
-♦️ [Github.io](https://min731.github.io/) / [Velog](https://velog.io/@min0731/series)
+🔶 [Github.io](https://min731.github.io/) / [Velog](https://velog.io/@min0731/series) 🔷 [경력기술서] / [포트폴리오] 상시 준비 
 
 <br>
 
