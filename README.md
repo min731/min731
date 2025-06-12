@@ -85,6 +85,6 @@ Air Gapped 환경의 Model Serving, Training ML 인프라 구축 업무를 수�
 #### &emsp; 🔹 Blog 👉 [Github.io](https://min731.github.io/) 
 #### &emsp; 🔹 Blog 👉 [Link](https://velog.io/@min0731/series) 
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/min0731?theme=light&posts=3)
+<!--![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/min0731?theme=light&posts=3)-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
