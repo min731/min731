@@ -60,6 +60,7 @@
  
 ## ✏ Study
 
+#### &emsp; 🔹 오프라인 스터디(모각코)  👉 [Social](https://www.daangn.com/kr/group/c8j7vuu3anqq/?utm_medium=copy_link&in=%EA%B5%AC%EA%B0%88%EB%8F%99-1679)
 #### &emsp; 🔹 알고리즘 문제풀이/스터디  👉 [Blog](https://velog.io/@min0731/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C), [Repo](https://github.com/min731/Algorithm_Problem_Solving) 
 #### &emsp; 🔹 알고리즘 개념 공부  👉 [Repo](https://github.com/min731/Algorithm_Concepts) 
 <!-- #### &emsp; 🔹 Flask 서빙 공부  👉 [Repo](https://github.com/min731/Flask_Study)  -->
@@ -68,6 +69,7 @@
 
 ## 📞 Contact
 #### &emsp; 🔹 E-mail 👉 ypd04208@gmail.com 
+#### &emsp; 🔹 Blog 👉 [Github.io](https://min731.github.io/) 
 #### &emsp; 🔹 Blog 👉 [Link](https://velog.io/@min0731/series) 
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/min0731?theme=light&posts=3)
