@@ -1,24 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=MLOps%20엔지니어%20'임정민'%20입니다!%20&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Agent%20서비스%20개발자%20'임정민'%20입니다!%20&fontSize=50&fontColor=FFFFFF)
   
 <div align="center">   
   
 ## 👋 Introduction
 
-#### 2년차 MLOps Engineer ‘임정민’입니다.
-🔶 [Github.io](https://min731.github.io/) / [Velog](https://velog.io/@min0731/series) / 경력기술서✅ / 포트폴리오✅ (25.06.17)
-
+#### 2년차 Agent 서비스 개발자 ‘임정민’입니다.
 <br>
 
-#### [On-Premise MLOps 엔지니어]
-Air Gapped 환경의 Model Serving, Training ML 인프라 구축 업무를 수행해왔습니다.
+#### [Agent 서비스 오케스트레이터]
+월 평균 4만명 사용자 Agent 서비스 Orchestration 서버를 전담하였습니다.
 <br>
 
-#### [오픈 소스 모델을 활용하여 문제를 해결하는 개발자]
-공개된 NER 오픈 소스 및 연구 논문을 활용하여 제품 기능 개선에 기여했습니다.
+#### [ML Workflow 전반에 대한 경험]
+Serving · AutoML 플랫폼 개발과 NER 모델 Training 경험이 있습니다.
 <br>
 
 #### [지속적인 성장을 이끌어 주는 동료]
-총 26명 규모 [오프라인 스터디](https://www.daangn.com/kr/group/c8j7vuu3anqq/?utm_medium=copy_link&in=%EA%B5%AC%EA%B0%88%EB%8F%99-1679)를 운영하는 모임장으로 활동하고 있습니다.
+총 30명 규모 [오프라인 스터디](https://www.daangn.com/kr/group/c8j7vuu3anqq/?utm_medium=copy_link&in=%EA%B5%AC%EA%B0%88%EB%8F%99-1679)를 운영하는 모임장으로 활동하고 있습니다.
 <br>
 <br>
 
@@ -26,14 +24,12 @@ Air Gapped 환경의 Model Serving, Training ML 인프라 구축 업무를 수�
 
 #### &emsp; - Languages
 #### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-#### &emsp; - AI
-#### &emsp; <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
-#### &emsp; - Server
-#### <img src="https://img.shields.io/badge/fastAPI-009688?style=for-the-badge&logo=fastAPI&logoColor=white">
+#### &emsp; - Backend
+#### &emsp; <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=Langchain&logoColor=white"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white"> <img src="https://img.shields.io/badge/fastAPI-009688?style=for-the-badge&logo=fastAPI&logoColor=white">
 #### &emsp; - Database
-#### &emsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+#### &emsp; <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white"> <img src="https://img.shields.io/badge/GreenPlum-4169E1?style=for-the-badge&logo=GreenPlum&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white"> 
 #### &emsp; - Infrastructure
-#### &emsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/kserve-40AEF0?style=for-the-badge&logo=kserve&logoColor=white"> <img src="https://img.shields.io/badge/katib-40AEF0?style=for-the-badge&logo=katib&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white"/>
+#### &emsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=Keycloak&logoColor=white"/> <img src="https://img.shields.io/badge/kserve-40AEF0?style=for-the-badge&logo=kserve&logoColor=white"> <img src="https://img.shields.io/badge/katib-40AEF0?style=for-the-badge&logo=katib&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white"/>
 
 <br>
 
