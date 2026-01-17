@@ -26,7 +26,7 @@ Serving · AutoML 플랫폼 개발과 NER 모델 Training 경험이 있습니다
 |:---:|:---:|:---:|:---:|:---:|
 |ENSSEL|2025.09 ~ <br>ing|DS Assistant|삼성 DS 사내 생성형 AI 서비스|LangChain · LangGraph 서버 <br> 개발 및 운영|
 |-|2025.07 ~ 2025.08|MARU LLM (POC)|보고서 · 실적 데이터 기반 Agent 서비스|ChromaDB 임베딩 · 의도 분류 <br> Agent 프롬프팅 |
-|-|2024.08 ~ 2025.05|AIP Platform|삼성 DS On-Premise <br> MLOps 플랫폼|Kserve 서빙 · Katib AutoML · Keycloak <br>인증 시스템 구축|
+|-|2024.08 ~ 2025.05|AIP Platform|삼성 DS On-Premise <br> MLOps 플랫폼|Kserve 서빙 · Katib AutoML · Keycloak 인증 시스템 구축|
 |-|2024.04 ~ 2024.07|QMS LLM|보고서·메일 생성 LLM <br>서비스|사원명 · 부서명 NER Model Training|
 
 ## 🛠 Tech Stack 
