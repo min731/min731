@@ -8,7 +8,7 @@
 <br>
 
 #### [Agent 서비스 오케스트레이터]
-월 평균 4만명 사용자 Agent 서비스 Orchestration 서버를 전담하였습니다.
+월 평균 4만명 사용자, 150만건 트래픽을 처리하는 Agent 서비스 Orchestration 서버를 전담하였습니다.
 <br>
 
 #### [ML Workflow 전반에 대한 경험]
