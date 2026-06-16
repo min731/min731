@@ -24,7 +24,7 @@ Serving · AutoML 플랫폼 개발과 NER 모델 Training 경험이 있습니다
 
 |Organization|Period|Project|Description|Role|
 |:---:|:---:|:---:|:---:|:---:|
-|GENON|2026.06 ~ <br>ing|삼성 카드 Agent|삼성 카드 사내 Agent 서비스|Flowise · LangGraph 서버 <br> 개발|
+|GENON|2026.06 ~ <br>ing|삼성 카드 Agent|삼성 카드 사내 Agent 서비스| 금융권 Agent Workflow 개발|
 |ENSSEL|2025.09 ~ 2026.05|DS Assistant|삼성 DS 사내 생성형 AI 서비스|LangChain · LangGraph 서버 <br> 개발 및 운영|
 |-|2025.07 ~ 2025.08|사내 LLM 서비스(POC)|보고서 · 실적 데이터 기반 Agent 서비스|ChromaDB 임베딩 · 의도 분류 <br> Agent 프롬프팅 |
 |-|2024.08 ~ 2025.05|AI Platform Serve|삼성 DS On-Premise <br> MLOps 플랫폼|Kserve 서빙 · Katib AutoML · Keycloak       인증 시스템 구축|
